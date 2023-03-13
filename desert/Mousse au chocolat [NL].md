@@ -13,13 +13,13 @@ Mousse au chocolat - maar dan goed! We doen 'een beetje ingewikkeld' met warm- e
 
 ## Ingrediënten
 
-125g [chocolade]
-1 [ei]
-17g [vanillesuiker] + [suiker]
-50 ml hete [melk]
-125 ml [slagroom]
-0,5cl [rum]
-1tl [oploskoffie]
+- 125g [chocolade]
+- 1 [ei]
+- 17g [vanillesuiker] + [suiker]
+- 50 ml hete [melk]
+- 125 ml [slagroom]
+- 0,5cl [rum]
+- 1tl [oploskoffie]
 
 ## Bereiding
 1. Chocolade smelten (boven een waterbad)
