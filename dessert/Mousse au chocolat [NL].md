@@ -1,6 +1,6 @@
 ---
 # YAML front matter to specify recipe metadata
-categories: desert, chocolate
+categories: dessert, chocolate
 yields: 300ml
 servings: 3-4
 prep: 20 mins
