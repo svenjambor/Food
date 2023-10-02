@@ -4,6 +4,7 @@ categories: entree,lasagne, Italian food, soul food, sauce, pasta
 yields: 750g
 servings: 6
 prep: 45 mins
+simmer: 2h
 cook: 45 mins
 ---
 # Klassieke Lasagne
