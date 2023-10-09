@@ -28,8 +28,8 @@ Thrown together in 5 minutes and left to rise all night this is the perfect brea
 Mix all in bowl and let sit in cool place overnight (8-10h)
 
 ### Bake (in the morning)
-1. Pre-heat oven to 230C / 450F; have Dutch oven (or similar) in oven while pre-heating to it gets hot as well
-2. Put dough on (heavily) floured coutertop and let rest while oven is heating up
+1. Pre-heat oven to 230C / 450F; have Dutch oven (or similar) in oven while pre-heating so it gets hot as well
+2. Put dough on (heavily) floured countertop and let rest while oven is heating up
 3. Lighly grease Dutch oven when it's hot
 4. Gently fold dough and put it in Dutch oven (best with 2 people b/c hands will het sticky when putting the dough and you don't want to mess up your mittens)
 5. Bake - with lid on - for about 30 minutes
