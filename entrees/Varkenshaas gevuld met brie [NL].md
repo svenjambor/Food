@@ -7,15 +7,15 @@ prep: 45 mins
 simmer: 2h
 cook: 45 mins
 ---
-# Klassieke Lasagne
-Smeeurige Lasagne met veel lagen en gesmolten mozarella
+# Varkenshaas gevuld met brie
+Varkenshaas uit de airfryer, gevuld met brie en honing, omwikkeld met rauwe spek.
 
 ## Ingrediënten:
 - 1 varkenshaas (ongeveer 500 gram)
 - 100 gram brie, in dunne plakjes gesneden
 - 2 eetlepels honingmosterd saus
 - Handvol walnoten, grof gehakt
-- 100 gram Parmaham, in dunne plakjes
+- 100 gram rauwe ham, in dunne plakjes
 
 #Bereidingswijze:
 - Begin met het voorbereiden van de varkenshaas. Maak een diepe insnijding over de lengte van de varkenshaas om een ‘zakje’ te creëren, maar zorg ervoor dat je niet helemaal door het vlees heen snijdt.
