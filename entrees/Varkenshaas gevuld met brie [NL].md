@@ -1,11 +1,9 @@
 ---
 # YAML front matter to specify recipe metadata
 categories: entree,lasagne, Italian food, soul food, sauce, pasta
-yields: 750g
-servings: 6
-prep: 45 mins
-simmer: 2h
-cook: 45 mins
+servings: 4
+prep: 10 mins
+cook: 25 mins
 ---
 # Varkenshaas gevuld met brie
 Varkenshaas uit de airfryer, gevuld met brie en honing, omwikkeld met rauwe spek.
