@@ -10,7 +10,7 @@ cook: 45 mins
 # Klassieke Lasagne
 Smeeurige Lasagne met veel lagen en gesmolten mozarella
 
-## Ingrediënte
+## Ingrediënten
 - 2 uien
 - 6 teentjes knoflook
 - 200 gr wortel
