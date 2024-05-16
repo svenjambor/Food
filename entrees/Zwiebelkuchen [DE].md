@@ -6,7 +6,7 @@ prep: 10 mins
 cook: 25 mins
 ---
 # Schwäbischer Zwiebelkuchen
-Varkenshaas uit de airfryer, gevuld met brie, walnoten en honing, omwikkeld met rauwe spek.
+Echter schwäbischer Zwiebelkuchen. Am Besten mit Neuem Wein.
 
 ## Zutaten:
 
