@@ -14,12 +14,12 @@ Thrown together in 5 minutes and left to rise all night this is the perfect brea
 ## Ingredients
 
 ### Dough
-- 500g (4 cups)		all-purpose [flour]
-- 200-350g (8 - 12oz)	[sourdough]
+- 500g (4 cups)	all-purpose [flour]
+- 200-350g (8 - 12oz) [sourdough]
 - 3-5g 	(1 tsp)	dried [yeast]
-- 50g (3-4 tbsp)		olive [oil]
-- 15g (3 tsp)		salt
-- 1 tsp 			Italian spices (optional)
+- 50g (3-4 tbsp) olive [oil]
+- 15g (3 tsp) salt
+- 1 tsp Italian spices (optional)
 
 
 ## Instructions
