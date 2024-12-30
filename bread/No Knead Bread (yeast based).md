@@ -16,7 +16,7 @@ Thrown together in 5 minutes and left to rise all night this is the perfect brea
 ### Dough
 
 - 500g (4 cups) all-purpose [flour]
-- 400-420ml (13 - 14oz)	[water]
+- 400-420ml (13 - 14oz) [water]
 - 5-7g (1 tsp) dried [yeast]
 - 50g (3-4 tbsp) olive [oil]
 - 15g (3 tsp) [salt]
