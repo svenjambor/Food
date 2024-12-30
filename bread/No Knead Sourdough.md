@@ -14,6 +14,7 @@ Thrown together in 5 minutes and left to rise all night this is the perfect brea
 ## Ingredients
 
 ### Dough
+
 - 500g (4 cups)	all-purpose [flour]
 - 200-350g (8 - 12oz) [sourdough]
 - 3-5g 	(1 tsp)	dried [yeast]
@@ -21,13 +22,14 @@ Thrown together in 5 minutes and left to rise all night this is the perfect brea
 - 15g (3 tsp) [salt]
 - 1 tsp Italian spices (optional)
 
-
 ## Instructions
 
 ### Prep (in the evening)
+
 Mix all in bowl and let sit in cool place overnight (8-10h)
 
 ### Bake (in the morning)
+
 1. Pre-heat oven to 230C / 450F
 2. Put Dutch oven (or similar) in oven while pre-heating so it gets hot as well
 3. Put dough on (heavily) floured countertop and let rest while oven is heating up
@@ -37,6 +39,5 @@ Mix all in bowl and let sit in cool place overnight (8-10h)
 7. Remove lid and bake with **lid off** for another 15 minutes
 
 ### Notes
+
 TRY to let it cool down before cutting it (better for moisture distribution) - or eat it real quick ;-)
-
-
