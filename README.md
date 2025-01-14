@@ -1,5 +1,5 @@
 # Recipes
-Heck, code tells a computer what to do in order to cook up something.  So why not use it to tell me (or any other lifeform, varbon-based or otherwise) how to cook something IRL?!  
+Heck, code tells a computer what to do in order to cook up something.  So why not use it to tell me (or any other lifeform, carbon-based or otherwise) how to cook something IRL?!  
 
 So - here's a collection of a couple of recipes I use (and I tend to lose track of)
 
