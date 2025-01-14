@@ -22,9 +22,10 @@ cook: 17 mins
 
 - 6 Muffin-Formen
 
-## Zubereitung:
+## Zubereitung
 
 ### Vorbereitung
+
 1. Schokolade schmelzen (au bain mari).
 2. Wenn die Schokolade geschmolzen ist, Butter zufügen und schmelzen lassen. Gut durchrühren.
 3. In der Zwischenzeit Eier und Zucker schaumig schlagen.
@@ -35,10 +36,12 @@ cook: 17 mins
 8. Förmchen in den Gefrierschrank stellen und durch und durch gefrieren lassen (mindestens 3 Stunden).
 
 ### Backen
-1. 17 Minuten auf 200°C. 
-2. 5 Minuten abkühlen lassen und stürzen. 
+
+1. 17 Minuten auf 200°C.
+2. 5 Minuten abkühlen lassen und stürzen.
 
 ## Notizen
+
 - Die Backzeit kann je nach Ofen unterschiedlich sein.
 - Servieren mit Vanilleeis und Schokoladesauce.
 
