@@ -5,4 +5,4 @@ So - here's a collection of a couple of recipes I use and I tend to lose track o
 
 If the recipe is not in English the title will contain the language code of the language it's in.
 
-Oh, yes, this thing might acually end up as an app. So I added some front matter to the .md files to make things searchable. Eventually. Or never. Whatever.
+Oh, yes, this thing might actually end up as an app for me and assorterd household members.  So I added some front matter to the .md files to make things searchable. Eventually. Or never. Whatever. No worries. Cumbaya.
