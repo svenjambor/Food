@@ -48,7 +48,10 @@ Smeeurige Lasagne met veel lagen en gesmolten mozarella
 7. Kruid alles met de italianse kruiden, nootmuskaat, kaneel en erdoor. 
 8. Breng aan de kook, zet het vuur daarna op de laagste stand en laat 2-3 uur pruttelen op laag vuur met de deksel op de pan. Af en toe te roeren en proeven.
 9. Haal je de deksel van de pan en laat je de saus droger koken tot de saus een mooie, smeuïge structuur heeft.
-10. Bechamelsaus: Maak een roux door de boter te smelten en de bloem erdoor te roeren. Blijf roeren op middelhoog vuur tot de massa gaat "zweten".
+
+
+Bechamelsaus: Maak een roux door de boter te smelten en de bloem erdoor te roeren. Blijf roeren op middelhoog vuur tot de massa gaat "zweten".
+
 11. Voeg een deel van de melk toe en roer glade met een garde. 
 12. Voeg de rest van de melk toe en zet het vuur hoog.  Laat de saus indikken terwijl je blijft roeren.
 13. Breng op smaak met zout (mag een flinke scheut hebben), peper en nootmuskaat. 
