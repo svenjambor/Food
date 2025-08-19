@@ -1,3 +1,9 @@
+---
+# YAML front matter to specify recipe metadata
+categories: entree, Italian food, soul food, pasta
+servings: 6
+cook: 10 mins
+---
 # Gnocchi Caprese
 
 Dit frisse recept combineert gnocchi met caprese smaken: kerstomaatjes, basilicum en burrata. Perfect voor een warme zomerdag, snel op tafel!
