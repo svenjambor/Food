@@ -10,13 +10,13 @@ Dit frisse recept combineert gnocchi met caprese smaken: kerstomaatjes, basilicu
 
 ## Ingrediënten
 
-500g gnocchi
-2 flinke handen kerstomaatjes, gehalveerd
-Verse basilicum
-Burrata of mozzarella
-Parmezaanse kaas
-Boter
-Zout, peper
+- 500g gnocchi
+- 2 flinke handen kerstomaatjes, gehalveerd
+- Verse basilicum
+- Burrata of mozzarella
+- Parmezaanse kaas
+- Boter
+- Zout, peper
 
 ## Bereiding
 
