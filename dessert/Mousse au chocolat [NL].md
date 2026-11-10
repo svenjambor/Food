@@ -9,17 +9,17 @@ cook: 4 hours (refrigeration)
 
 # Mousse au chocolat
 
-Mousse au chocolat - maar dan goed! We doen 'een beetje ingewikkeld' met koelkasttijden,  warm- en koud water baden. Maar het resultaat is er dan ook naar. Sneller en met minder moeite kan - maar dan wordt het geheel minder luchtig. Eigen keuze... 
+Mousse au chocolat - maar dan goed! We doen 'een beetje ingewikkeld' met koelkasttijden,  warm- en koud water baden. Maar het resultaat is er dan ook naar. Sneller en met minder moeite kan - maar dan wordt het geheel minder luchtig. Eigen keuze...
 
 ## Ingrediënten
 
-- 125g [chocolade]
-- 1 [ei]
-- 17g [vanillesuiker] + [suiker]
-- 50 ml hete [melk]
-- 125 ml [slagroom]
-- 0,5cl [rum]
-- 1tl [oploskoffie]
+- 125g chocolade
+- 1 ei
+- 17g vanillesuiker + suiker
+- 50 ml hete melk
+- 125 ml slagroom
+- 0,5cl rum
+- 1tl oploskoffie
 
 ## Bereiding
 

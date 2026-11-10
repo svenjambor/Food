@@ -1,12 +1,13 @@
 ---
 # YAML front matter to specify recipe metadata
-categories: entree,lasagne, Italian food, soul food, sauce, pasta
+categories: entree, lasagne, Italian food, soul food, sauce, pasta
 yields: 750g
 servings: 6
 prep: 45 mins
 simmer: 2h
 cook: 45 mins
 ---
+
 # Klassieke Lasagne
 
 Smeeurige Lasagne met veel lagen en gesmolten mozarella
@@ -43,18 +44,17 @@ Smeeurige Lasagne met veel lagen en gesmolten mozarella
 2. Verhit een pan met dikke bodem en bak de fijngehakte groenten in olijfolie met een snuf zout en peper voor 10 minuten op middellaag vuur (mag ook met deksel). Let op: de groenten mogen niet bruin worden.
 3. Voeg het gehakt toe en rul gaar op hoog vuur.
 4. Voeg de tomatenpuree toe en bak nog 1 minuut mee.
-5. Voeg passata, wijn en tomatenblokes 
+5. Voeg passata, wijn en tomatenblokes
 6. Schenk de passata in de pan samen met de rode wijn en roer de gepelde tomaten.
-7. Kruid alles met de italianse kruiden, nootmuskaat, kaneel en erdoor. 
+7. Kruid alles met de italianse kruiden, nootmuskaat, kaneel en erdoor.
 8. Breng aan de kook, zet het vuur daarna op de laagste stand en laat 2-3 uur pruttelen op laag vuur met de deksel op de pan. Af en toe te roeren en proeven.
 9. Haal je de deksel van de pan en laat je de saus droger koken tot de saus een mooie, smeuïge structuur heeft.
 
+10. Bechamelsaus: Maak een roux door de boter te smelten en de bloem erdoor te roeren. Blijf roeren op middelhoog vuur tot de massa gaat "zweten".
 
-Bechamelsaus: Maak een roux door de boter te smelten en de bloem erdoor te roeren. Blijf roeren op middelhoog vuur tot de massa gaat "zweten".
-
-11. Voeg een deel van de melk toe en roer glade met een garde. 
+11. Voeg een deel van de melk toe en roer glade met een garde.
 12. Voeg de rest van de melk toe en zet het vuur hoog.  Laat de saus indikken terwijl je blijft roeren.
-13. Breng op smaak met zout (mag een flinke scheut hebben), peper en nootmuskaat. 
+13. Breng op smaak met zout (mag een flinke scheut hebben), peper en nootmuskaat.
 14. Verwarm de oven voor op 180 graden terwijl je de lasagne "opbouwt".
 15. Verdeel een kleine hoeveelheid van de saus op de bodem en leg hier een laagje lasagnevellen op.
 16. Verdeel een vijfde van de bechamelsaus over de lasagnevellen (tip: gebruik de bolle kant van een lepel)

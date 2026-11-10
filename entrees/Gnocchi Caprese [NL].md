@@ -4,6 +4,7 @@ categories: entree, Italian food, soul food, pasta
 servings: 6
 cook: 10 mins
 ---
+
 # Gnocchi Caprese
 
 Dit frisse recept combineert gnocchi met caprese smaken: kerstomaatjes, basilicum en mozarella (of burrata). Perfect voor een warme zomerdag en snel op tafel!
