@@ -1,26 +1,46 @@
 # Recipes to try
 
-Receptideeën van elders, in afwachting van zelf koken en eventueel aanpassen. Deze recepten zijn bewust gescheiden van de recepten die ik al zelf maak.
+Receptideeën van andere websites om nog eens te maken. Dit is een aparte verzameling naast mijn eigen, al gebruikte recepten.
 
-## Losse recepten
+## Individuele recepten
+
+### Hoofdgerechten
+
+- [Boeuf bourguignon](boeuf-bourguignon.md)
+- [Ouderwets draadjesvlees](ouderwets-draadjesvlees.md)
+- [Preischotel met puree en een kaaskorst](preischotel-puree.md)
+- [Rijstsalade met sticky kippendij](rijstsalade-sticky-kippendij.md)
+- [Romige pasta met prei, spek en Boursin](romige-pasta-prei-spek-boursin.md)
+- [Bloemkoolstamppot met gehaktballetjes in currysaus](bloemkoolstamppot-gehaktballetjes-currysaus.md)
+- [Vegetarische noedels met pindasaus en paksoi](vegetarische-noedels-pindasaus-paksoi.md)
+- [Traybake met pompoen, krieltjes en harissa](traybake-pompoen-krieltjes-harissa.md)
+- [Romige rijstovenschotel met broccoli en prei](rijstovenschotel-broccoli-prei.md)
+- [Burgers met oude kaas en burgersaus](burgers-oude-kaas-burgersaus.md)
+
+### Soep
+
+- [Ouderwetse ossenstaartsoep](ossenstaartsoep.md)
+- [Pompoensoep met wortel en rode curry](pompoensoep-wortel-rode-curry.md)
+
+### Bijgerechten
+
+- [Geroosterde spruitjes met druiven en pecannoten](spruitjes-druiven-pecannoten.md)
+
+### Dessert en gebak
 
 - [Koffiecake met gezouten karamel en nougatine](koffiecake-karamel-nougatine.md)
-- [Ouderwets draadjesvlees](ouderwets-draadjesvlees.md)
-- [Ossenstaartsoep](ossenstaartsoep.md)
-- [Geroosterde spruitjes met druiven en pecannoten](spruitjes-druiven-pecannoten.md)
 - [Gevulde appeltjes uit de oven](gevulde-appeltjes-uit-de-oven.md)
-- [Pompoentaart](romige-pompoentaart.md)
-- [Boeuf bourguignon](boeuf-bourguignon.md)
-- [Rijstsalade met sticky kippendij](rijstsalade-sticky-kippendij.md)
-- [Preischotel met puree](preischotel-puree.md)
-- [Appelmoppen met kaneelsuiker (Libelle; bron niet toegankelijk)](appelmoppen-met-kaneelsuiker-libelle.md)
+- [Romige pompoentaart](romige-pompoentaart.md)
+- [Appelmoppen met kaneelsuiker (Libelle — alleen bronlink, pagina niet toegankelijk)](appelmoppen-met-kaneelsuiker-libelle.md)
 
 ## Receptverzamelingen
 
-- [15 x Oma's recepten](collections/15-x-omas-recepten.md)
-- [10 x Voorbereidbare ovenschotels](collections/10-x-voorbereidbare-ovenschotels.md)
-- [Weekmenu 45 (2026)](collections/weekmenu-45-2026.md)
+Deze verzamelpagina's bevatten verwijzingen naar **32 afzonderlijke inspiratie-recepten**. De Eef Kookt Zo-recepten zijn hier als losse, controleerbare links vastgelegd en niet volledig omgeschreven. Van het weekmenu zijn de zeven recepten hierboven wél volledig uitgewerkt.
 
-## Opmerking
+- [15 x Oma's recepten — 15 individuele bronlinks](collections/15-x-omas-recepten.md)
+- [10 x Ovenschotels die je vooraf kunt maken — 10 individuele bronlinks](collections/10-x-voorbereidbare-ovenschotels.md)
+- [Weekmenu 45 (2026) — 7 recepten, ook lokaal uitgewerkt](collections/weekmenu-45-2026.md)
 
-Receptbeschrijvingen zijn in eigen woorden samengevat, met bronvermelding en controleerbare hoeveelheden waar beschikbaar. Foto's van externe uitgevers worden niet zonder hergebruiksrechten in deze openbare repository gekopieerd.
+## Herkomst en afbeeldingen
+
+Alle externe recepten vermelden hun oorspronkelijke bron en zijn in eigen bewoordingen genoteerd, met hoeveelheden en bereidingstemperaturen uit die bron. De foto's blijven bij de oorspronkelijke uitgevers zolang er geen duidelijke licentie is die herpublicatie in deze openbare repo toestaat.
