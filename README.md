@@ -6,3 +6,7 @@ So - here's a collection of recipes I use and I tend to lose track of because I 
 If the recipe is not in English the title will contain the language code of the language it's in.
 
 Oh, yes, this thing might actually end up as an app for me and assorterd household members.  So I added some front matter to the .md files to make things searchable. Eventually. Or never. Whatever. No worries. Cumbaya.
+
+## Recipes to try
+
+Ideas from other websites, kept separate from recipes I already make: [Browse recipes to try](to-try/README.md).
