@@ -1,14 +1,17 @@
 ---
 # YAML front matter to specify recipe metadata
-categories: entree,lasagne, Italian food, soul food, sauce, pasta
+categories: entree, lasagne, Italian food, soul food, sauce, pasta
 servings: 4
 prep: 10 mins
 cook: 25 mins
 ---
+
 # Varkenshaas gevuld met brie
+
 Varkenshaas uit de airfryer, gevuld met brie, walnoten en honing, omwikkeld met rauwe spek.
 
 ## Ingrediënten:
+
 - 1 varkenshaas
 - 100 gram brie, in dunne plakjes gesneden
 - 1 eetlepel mosterd
@@ -16,7 +19,8 @@ Varkenshaas uit de airfryer, gevuld met brie, walnoten en honing, omwikkeld met 
 - Handvol walnoten, grof gehakt
 - 100 gram rauwe ham
 
-#Bereidingswijze:
+## Bereidingswijze:
+
 - Maak een diepe insnijding over de lengte van de varkenshaas om een ‘zakje’ te creëren
 - Smeer de binnenkant van de varkenshaas rijkelijk in met de honing en mosterd.
 - Vul de opening in de varkenshaas met de plakjes brie en bestrooi met de grof gehakte walnoten. Druk de vulling lichtjes aan om ervoor te zorgen dat deze goed verdeeld is.

@@ -1,7 +1,11 @@
+---
+categories: entree, Greek food
+---
+
 # Traditionele Griekse Moussaka
 
 ## INGREDIËNTEN
-  
+
 ### Voor de gehaktsaus
 
 - 500 gram rundergehakt (kalfs- of lamsgehakt kan ook)
@@ -31,8 +35,9 @@
 - nog wat extra geraspte kaas voor de bovenkant
 
 ## INSTRUCTIES
- 
+
 ### Gehaktsaus:
+
 - Doe een scheutje olijfolie in een hapjespan en doe de uitjes met de knoflook in de pan om de uitjes in ongeveer 5-10 minuten zacht en glazig te bakken, niet bruin laten worden.
 - Nu het rundvlees erbij. Zet het vuur wat lager en laat het gehakt rullen (doe dit dus op laag vuur om te voorkomen dat je knoflook verbrandt). Het is aan te raden om tijdens het rullen het gehakt zoveel mogelijk te blijven bewerken met een spatel zodat dit een mooi egaal geheel wordt. Zodra het gehakt gaar is kun je het geheel in een zeef afgieten om eventueel het teveel aan vet af te laten voeren. Doe het mengsel daarna weer terug in de pan en laat nu ook de laurierblaadjes even mee stoven.
 - Doe de tomatenpuree erbij en bak dit even mee met het gehakt en de laurierblaadjes, roer goed door.
@@ -42,6 +47,7 @@
 - Haal de laurierblaadjes uit het mengsel (en de pimentkorrels als je hele pimentkorrels hebt gebruikt) en breng verder op smaak met zout en peper. Zorg dat het mengsel goed op smaak is, dit wordt namelijk de smaakmaker van de moussaka. Zet het mengsel even weg om verder te gaan met de rest.
 
 ### Groentes
+
 - Snij de aubergines in lengterichting in dunne plakken.
 - Leg ze op keukenpapier en bestrooi ze met wat zout aan beide kanten.  Laat dit rusten terwijl je met de aardappelen aan de slag gaat.
 - Schil de aardappelen en snijd ze in de lengte in mooie dunne plakken (zo dik als je mes).
@@ -58,6 +64,7 @@
 - Roer de geraspte kaas erdoor en rasp wat nootmuskaat erdoor. Doe eventueel nog een  snuf kaneel erbij voor een extra kick.
 
 ### Opbouwen
+
 - Zorg dat de ovenschaal goed is ingevet en begin met een laagje (iets minder dan de helft) aardappels op de bodem. Doe dit niet dakpansgewijs, maar leg eerst gewoon de bodem als een puzzel vol, en doe wat kleinere stukjes in de gaten die ontstaan zodat het een mooie egale laag wordt.
 - Verspreid nu hierop het gehakt met een spatel en druk het goed aan.
 - Doe nu alle aubergineplakken erboven op en zorg dat alles goed bedekt is. Dit alles sluit je af met weer een laag aardappelen. Druk alles zachtjes aan.
@@ -66,4 +73,3 @@
 Bak de moussaka ongeveer 40 – 45 minuten op 180° totdat de bovenkant mooi goudbruin is. Laat het buiten de oven nog even op adem komen.
 
 Kali orexi, eet smakelijk!
-

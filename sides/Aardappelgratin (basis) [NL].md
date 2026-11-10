@@ -11,11 +11,11 @@ cook: 60 mins
 
 ## Ingrediënten
 
-- 600 gr [kruimige aardappelen]
-- 250 ml [slagroom]
-- 2 teentjes [knoflook]
-- 70 gr [geraspte kaas] (bijv. Gruyère)
-- [Peper] en [zout]
+- 600 gr kruimige aardappelen
+- 250 ml slagroom
+- 2 teentjes knoflook
+- 70 gr geraspte kaas (bijv. Gruyère)
+- Peper en zout
 
 ## Bereiding
 
